@@ -1,0 +1,19 @@
+Click File
+Click Project Structure
+Click Artifacts
+Click + 
+Click JavaFx application
+Click from module 'what ever they say'
+Select JavaFx section 
+for appilcation class add this, sample.CourseWork, which is the folder.javaFileName
+Select all from the Native bundle field
+click apply and ok
+
+from the above tool bar select build
+build artifacts
+click build
+
+=====================================================================
+for reference refer this link
+
+https://www.jetbrains.com/help/idea/packaging-javafx-applications.html#java_fx_build_artifact
