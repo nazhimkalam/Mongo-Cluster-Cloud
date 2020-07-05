@@ -13,7 +13,9 @@ from the above tool bar select build
 build artifacts
 click build
 
-=====================================================================
+....................................................................................................
 for reference refer this link
 
 https://www.jetbrains.com/help/idea/packaging-javafx-applications.html#java_fx_build_artifact
+
+.....................................................................................................

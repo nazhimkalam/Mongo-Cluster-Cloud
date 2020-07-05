@@ -1,4 +1,4 @@
-
+......................................................................................................
 ===> Use this piece of code in your mongo program
 
 MongoClientURI uri = new MongoClientURI(
@@ -12,3 +12,5 @@ MongoDatabase database = mongoClient.getDatabase("test");
 ===> Link for the Cluster database
 
 https://cloud.mongodb.com/v2/5eebb9bfc9de941d0d7ad0ba#metrics/replicaSet/5eebbae49fe4d832b0080220/explorer
+
+............................................................................................................
